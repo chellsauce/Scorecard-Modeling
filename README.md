@@ -1,5 +1,5 @@
 # Virtual-Internship-Experience
-The code I made to finish Task 4.
+The code I made to finish Task 4 of Home Credit Indonesia Data Scientist Virtual Internship Program.
 
 Performed basic data science processing to a Home Credit training dataset in order to predict credit acceptance, which consists of : \
 A. Data Collection,\
